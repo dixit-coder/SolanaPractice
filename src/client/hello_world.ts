@@ -227,7 +227,7 @@ export async function reportGreetings(): Promise<void> {
   );
   console.log(
     greetedPubkey.toBase58(),
-    'has been greeted',
+    'has been greeted modified 09.03.2022',
     greeting.counter,
     'time(s)',
   );
